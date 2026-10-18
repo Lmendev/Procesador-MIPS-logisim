@@ -1,3 +1,5 @@
+> ⏸️ **En pausa.** Desarrollo pausado temporalmente. Procesador MIPS de 32 bits emulado en Logisim.
+
 # Procesador-MIPS-logisim
 Emulación de procesador MIPS utilizando Logisim
 
